@@ -1,0 +1,145 @@
+body {
+
+    margin: 0;
+    text-align: center;
+    background-color: rgb(199, 199, 199);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: solid;
+
+}
+
+nav a {
+
+    margin: 0;
+    color: white;
+    text-decoration: none;
+
+}
+
+nav {
+    background-color: black;
+    margin: 0;
+    padding: 1em;
+    border: solid black 5px;
+    text-align: center;
+    color: white;
+}
+
+nav:hover{
+    box-shadow: 0px 16px 20px rgb(10, 10, 46);
+}
+
+.home {
+    display: center;
+    text-align: center;
+    width: 700px;
+    margin: auto;
+    margin-top: 5em;
+    padding: 2em;
+    background-color: aliceblue;
+
+    box-shadow: 0px 8px 10px;
+
+    border-radius: 1em;
+    width: 400px;
+}
+
+#profile-pic {
+    border-radius: 40%;
+    margin-bottom: 5px;
+    width: 40%;
+}
+
+.about-me{
+    display: center;
+    text-align: center;
+    width: 700px;
+    margin: auto;
+    margin-top: 5em;
+    margin-bottom: 5em;
+    padding: 2em;
+    border: 3px solid black;
+    border-radius: 2em;
+    box-shadow: 0px 10px 20px;
+}
+
+h4{
+    font-size: 3rem;
+    background-color: aliceblue;
+    border: black 2px ;
+    border-style:dashed;
+    border-radius: 2rem;
+    box-shadow: 0px 10px 20px;
+}
+
+.form{
+    display: center;
+    text-align: center;
+    width: 700px;
+    margin: auto;
+    margin-top: 5em;
+    margin-bottom: 5em;
+    padding: 2em;
+    border: 3px solid black;
+    border-radius: 2em;
+    box-shadow: 0px 10px 20px;
+}
+
+#contact-us{
+    font-size: 3rem;
+    background-color: aliceblue;
+    border: black 2px ;
+    border-style:dashed;
+    padding: 20px;
+    border-radius: 2rem;
+    box-shadow: 0px 10px 20px;
+    
+}
+
+button{
+    background-color:#44444E;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 8px;
+}
+
+button:hover{
+    background-color: #16161a;
+    transition: background-color 0.4 ease;
+}
+
+fieldset{
+    border: solid gray 4px;
+    border-radius: 2rem;
+
+}
+
+input{
+    border-radius: 2em;
+    height: 25px;
+    
+}
+
+
+
+footer a{
+    text-decoration: none;
+    color: aliceblue;
+}
+footer{
+     background-color: black;
+    margin: 0;
+    padding: 30px;
+    border: solid black 3px;
+    text-align: center;
+    color: white;
+    
+}
+
+footer:hover{
+    box-shadow: 0px 20px 100px  rgb(10, 10, 46); 
+}
+
+    
+
